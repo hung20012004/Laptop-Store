@@ -1,31 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="AccGUI_payment.cs">
+    <Compile Update="AccGUI_menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="AccGUI_exportinvoice.cs">
+    <Compile Update="CustomerSeviceUI_menu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="LoginGUI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ManagerGUI_addlaptop.cs">
+    <Compile Update="ManagerGUI_menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ManagerGUI_updatelaptop.cs">
+    <Compile Update="SellGUI_menu.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="SellGUI_createorder.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="SellGUI_getcustomer.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="SellGUI_laptopdetail.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="SellGUI_searchlaptop.cs">
+    <Compile Update="WarehouseUI_menu.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
